@@ -23,4 +23,4 @@
 
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/JBL-JR/blob/output/github-contribution-grid-snake.svg)          
+![Snake animation](https://github.com/JBL-JR/JBL-JR/blob/output/github-contribution-grid-snake.svg)          
