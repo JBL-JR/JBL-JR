@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/@vinicin0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vinicin0_0" height="30" width="40" /></a>
+<a href="https://instagram.com/@vinicin.0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vinicin.0_0" height="30" width="40" /></a>
  <a href="mailto:vplays990@gmail.com" target="blank"><img align="center" src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" target="_blank" alt="vplays990@gmail.com" height="60" width="50" /></a>
 </p>
 
