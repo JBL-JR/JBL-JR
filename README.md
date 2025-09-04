@@ -1,25 +1,5 @@
 
 
- ##👋 Hello guys! Welcome to my Github profile.
-## My name is Vinicius and my nickname is "JBL-JR"!
-
- - 🌱 Learning <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="20" height="20"/>
-
-- 🎯 Objective: become a professional cook and programmer
-- ⚡ Curiosidade: i like drawing and cooking
-<div aling ="center">
-<img src= "https://i.pinimg.com/originals/1e/f9/9c/1ef99c60dce28ec8a9cbedb85f4e2656.gif" alt="gato" Widht="600"/>
-     
-
- 
-<div aling ="center">
- - 📬 Contato
-
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:vplays990@gmail.com"><img loading="lazy" src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png" target="_blank"></a>  
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Vinicius and my nickname is "JBL-JR"!</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
@@ -50,7 +30,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
      </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbl-jr&show_icons=true&locale=en" alt="jbl-jr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbl-jr&theme=midnight-purple&show_icons=true&locale=en" alt="jbl-jr" /></p>
+
 
 
 
